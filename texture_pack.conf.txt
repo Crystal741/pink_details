@@ -1,0 +1,3 @@
+name = pink_details
+title = Pink Details
+description = Makes various color nodes to pink.
