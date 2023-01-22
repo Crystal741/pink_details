@@ -1,7 +1,12 @@
 # License for textures/media
 
-All textures are based off from [Minetest Game](https://github.com/minetest/minetest_game) mods, which means those textures fall under their respective licenses.\
+All textures are based on [Minetest Game](https://github.com/minetest/minetest_game) content, which means those textures fall under their respective licenses.\
 Unless otherwise noted, all textures fall under the [CC BY-SA 4.0 Interational](https://creativecommons.org/licenses/by-sa/4.0/) license, which is stated below.
+
+Copyright (C) 2023 Crystal741\
+The following media are licensed under [CC BY-SA 4.0 Interational](https://creativecommons.org/licenses/by-sa/4.0/):
+
+- `pink_girl.png`
 
 ## You are free to
 
