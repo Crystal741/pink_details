@@ -2,7 +2,7 @@
 
 A Minetest texture pack that makes various nodes and items pink!
 
-![screenshot](https://raw.githubusercontent.com/Crystal741/pink-details/main/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/Crystal741/pink_details/main/screenshot.png)
 
 ## 🛠 Installation 🛠
 
@@ -35,6 +35,6 @@ You can see all the screenshots in the root directory of the repository.
 
 ## 📜 License 📜
 
-Refer to the [`LICENSE.md`](https://github.com/Crystal741/pink-details) file for more information.
+Refer to the [`LICENSE.md`](https://github.com/Crystal741/pink_details) file for more information.
 
 [MTG]: https://github.com/minetest/minetest_game
