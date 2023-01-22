@@ -1,4 +1,4 @@
-# 🌹 Pink Details 🌹
+# 🌷 Pink Details 🌷
 
 A Minetest texture pack that makes various nodes and items pink!
 
