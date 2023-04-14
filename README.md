@@ -35,6 +35,6 @@ You can see all the screenshots in the root directory of the repository.
 
 ## 📜 License 📜
 
-Refer to the [`LICENSE.md`](https://github.com/Crystal741/pink_details) file for more information.
+Refer to the [`LICENSE.md`](https://github.com/Crystal741/pink_details/blob/main/LICENSE.md) file for more information.
 
 [MTG]: https://github.com/minetest/minetest_game
