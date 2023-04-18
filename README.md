@@ -3,6 +3,7 @@
 A Minetest texture pack that makes various nodes and items pink!
 
 ![screenshot](https://raw.githubusercontent.com/Crystal741/pink_details/main/screenshot.png)
+[![ContentDB](https://content.minetest.net/packages/Crystal741/pink_details/shields/downloads/)](https://content.minetest.net/packages/Crystal741/pink_details/)
 
 ## 🛠 Installation 🛠
 
