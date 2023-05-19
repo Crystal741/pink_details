@@ -14,6 +14,7 @@ Copyright (C) Various other Minetest developers/contributors
 - [`default_chest_lock.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_chest_lock.png)
 - [`default_chest_side.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_chest_side.png)
 - [`default_chest_top.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_chest_top.png)
+- [`default_meselamp.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_meselamp.png)
 - [`default_tool_*.png`](https://github.com/minetest/minetest_game/tree/master/mods/default/textures)
 - [`default_wood.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_wood.png)
 - [`gui_furnace_arrow_bg.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/gui_furnace_arrow_bg.png)
@@ -21,6 +22,7 @@ Copyright (C) Various other Minetest developers/contributors
 - [`tnt_top_burning_animated.png`](https://github.com/minetest/minetest_game/blob/master/mods/tnt/textures/tnt_top_burning_animated.png)
 - [`tnt_top_burning.png`](https://github.com/minetest/minetest_game/blob/master/mods/tnt/textures/tnt_top_burning.png)
 - [`tnt_top.png`](https://github.com/minetest/minetest_game/blob/master/mods/tnt/textures/tnt_top.png)
+- [`tnt_bottom.png`](https://github.com/minetest/minetest_game/blob/master/mods/tnt/textures/tnt_bottom.png)
 
 [paramat](https://github.com/paramt) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
 
@@ -28,7 +30,11 @@ Copyright (C) Various other Minetest developers/contributors
 - [`default_acacia_*.png](https://github.com/minetest/minetest_game/tree/master/mods/default/textures)
 - [`default_fence_rail_wood.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_fence_rail_wood.png)
 - [`default_pine_bush_sapling.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_pine_bush_sapling.png)
+- [`default_jungletree_top.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_jungletree_top.png)
+- [`default_junglewood.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_junglewood.png)
 - [`gui_hotbar_selected.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/gui_hotbar_selected.png)
+- [`default_mese_block.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_mese_block.png)
+- [`creative_trash_icon.png`](https://github.com/minetest/minetest_game/blob/master/mods/creative/textures/creative_trash_icon.png) (derived from a texture by [kilbith](https://github.com/kilbith) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)))
 
 [erlehmann](https://github.com/erlehmann) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
 
@@ -91,6 +97,7 @@ Copyright (C) Various other Minetest developers/contributors
 - [`default_sapling.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_sapling.png)
 - [`default_tree_top.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_tree_top.png)
 - [`default_water.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_water.png)
+- [`wool_pink.png`](https://github.com/minetest/minetest_game/blob/master/mods/wool/textures/wool_pink.png)
 
 [InfinityProject](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=1494) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
 
@@ -101,19 +108,18 @@ Copyright (C) Various other Minetest developers/contributors
 - [`default_sand.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_sand.png)
 - [`default_torch_on_floor_animated.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_torch_on_floor_animated.png)
 - [`default_torch_on_floor.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_torch_on_floor.png)
-
-[RealBadAngel](https://github.com/RealBadAngel) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
-
-- [`default_water_flowing_animated.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_water_flowing_animated.png)
-- [`default_water_source_animated.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_water_source_animated.png)
+- [`default_mese_crystal.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_mese_crystal.png)
 
 [PilzAdam](https://github.com/PilzAdam) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
 
 - [`farming_bread.png`](https://github.com/minetest/minetest_game/blob/master/mods/farming/textures/farming_bread.png)
+- [`default_jungleleaves.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_jungleleaves.png)
 
 [RHRhino](https://github.com/RHRhino) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
 
 - [`flowers_rose.png`](https://github.com/minetest/minetest_game/blob/master/mods/flowers/textures/flowers_rose.png)
+- [`flowers_viola.png`](https://github.com/minetest/minetest_game/blob/master/mods/flowers/textures/flowers_viola.png)
+- [`flowers_tulip.png`](https://github.com/minetest/minetest/game/blob/master/mods/flowers/textures/flowers_tulip.png)
 
 [Jordach](https://github.com/Jordach) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
 
@@ -122,6 +128,19 @@ Copyright (C) Various other Minetest developers/contributors
 Vanessa Ezekowitz ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
 
 - [`vessels_shelf.png`](https://github.com/minetest/minetest_game/blob/master/mods/vessels/textures/vessels_shelf.png)
+- [`vessels_glass_fragments.png`](https://github.com/minetest/minetest_game/blob/master/mods/vessels/textures/vessels_glass_fragments.png)
+- [`vessels_drinking_glass_inv.png`](https://github.com/minetest/minetest_game/blob/master/mods/vessels/textures/vessels_drinking_glass_inv.png) (modified by [Thomas-S](https://github.com/Thomas-S))
+- [`vessels_glass_bottle.png`](https://github.com/minetest/minetest_game/blob/master/mods/vessels/textures/vessels_glass_bottle.png) (modified by [Thomas-S](https://github.com/Thomas-S))
+
+[Krock/SmallJoker](https://github.com/SmallJoker) and [TumeniNodes](https://github.com/TumeniNodes) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
+
+- [`stairs_glass_outer_stairside.png`](https://github.com/minetest/minetest_game/blob/master/mods/stairs/textures/stairs_glass_outer_stairside.png)
+- [`stairs_glass_split.png`](https://github.com/minetest/minetest_game/blob/master/mods/stairs/textures/stairs_glass_split.png)
+- [`stairs_glass_outer_stairside.png`](https://github.com/minetest/minetest_game/blob/master/mods/stairs/textures/stairs_glass_outer_stairside.png)
+
+[Krock/SmallJoker](https://github.com/SmallJoker) and [paramat](https://github.com/paramat) (based on textures by [VanessaE](https://github.com/VanessaE)) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
+
+- [`doors_item_glass.png`](https://github.com/minetest/minetest_game/blob/master/mods/doors/textures/doors_item_glass.png)
 
 [celeron55](https://github.com/celeron55) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
 
@@ -137,6 +156,7 @@ Vanessa Ezekowitz ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0
 - [`default_sign_steel.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_sign_steel.png)
 - [`default_sign_wall_steel.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_sign_wall_steel.png)
 - [`default_sign_wood.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_sign_wood.png)
+- [`default_jungleleaves_simple.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_jungleleaves_simple.png)
 
 ## [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license statement
 
