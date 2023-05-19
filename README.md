@@ -21,14 +21,19 @@ Here's the complete list of supported mods. May be updated in the future:
 
 - `beds` (included in [Minetest Game][MTG]).
 - `binoculars` (included in [Minetest Game][MTG]).
+- `butterflies` (included in [Minetest Game][MTG]).
+- `creative` (included in [Minetest Game][MTG]).
 - `default` (included in [Minetest Game][MTG]).
+- `doors` (included in [Minetest Game][MTG]).
 - `farming` (included in [Minetest Game][MTG]).
 - `fireflies` (included in [Minetest Game][MTG]).
 - `flowers` (included in [Minetest Game][MTG]).
 - `player_api` (included in [Minetest Game][MTG]).
 - `screwdriver` (included in [Minetest Game][MTG]).
+- `stairs` (included in [Minetest Game][MTG]).
 - `tnt` (included in [Minetest Game][MTG]).
 - `vessels` (included in [Minetest Game][MTG]).
+- `wool` (included in [Minetest Game][MTG]).
 
 ## 📷 Screenshots 📷
 
