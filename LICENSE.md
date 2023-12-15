@@ -1,6 +1,6 @@
 # License for textures/media
 
-Copyright (C) 2023 Crystal741
+Copyright (C) 2023 Crystal741\
 Copyright (C) Various other Minetest developers/contributors
 
 [Crystal741](https://github.com/Crystal741) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
