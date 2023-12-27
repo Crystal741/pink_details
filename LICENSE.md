@@ -27,7 +27,7 @@ Copyright (C) Various other Minetest developers/contributors
 [paramat](https://github.com/paramt) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
 
 - [`binoculars_binoculars.png`](https://github.com/minetest/minetest_game/tree/master/mods/binoculars/textures)
-- [`default_acacia_*.png](https://github.com/minetest/minetest_game/tree/master/mods/default/textures)
+- [`default_acacia_*.png`](https://github.com/minetest/minetest_game/tree/master/mods/default/textures)
 - [`default_fence_rail_wood.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_fence_rail_wood.png)
 - [`default_pine_bush_sapling.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_pine_bush_sapling.png)
 - [`default_jungletree_top.png`](https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_jungletree_top.png)
