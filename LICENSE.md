@@ -46,8 +46,8 @@ Copyright (C) Various other Minetest developers/contributors
 
 [Ezhh/Shara](https://github.com/Ezhh) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
 
-- [`butterflies_butterfly_*.png](https://github.com/minetest/minetest_game/tree/master/mods/butterflies/textures)
-- [`fireflies_firefly_*.png](https://github.com/minetest/minetest_game/tree/master/mods/fireflies/textures)
+- [`butterflies_butterfly_*.png`](https://github.com/minetest/minetest_game/tree/master/mods/butterflies/textures)
+- [`fireflies_firefly_*.png`](https://github.com/minetest/minetest_game/tree/master/mods/fireflies/textures)
 
 [An0n3m0us](https://github.com/An0n3m0us) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
 
